@@ -139,6 +139,13 @@ RAGOLLAMA/
 6. **Access the application**
    Open your browser and navigate to `http://localhost:8501`
 
+## 🌐 Live Demo
+
+You can access a live version of the application at:
+**[https://ragollamareviewpaper-mlmva58bwf3jjnjhnexwnl.streamlit.app](https://ragollamareviewpaper-mlmva58bwf3jjnjhnexwnl.streamlit.app)**
+
+*Note: The live demo may have limited functionality compared to a local installation due to resource constraints.*
+
 ## 📖 Usage Guide
 
 ### Initial Setup
